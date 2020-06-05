@@ -1,1 +1,3 @@
 # sccm
+
+**Microsoft Endpoint Configuration Manager** (**Configuration Manager**, also known as **ConfigMgr** or **SCCM**),[1] formerly **System Center Configuration Manager**[2] and **Systems Management Server (SMS**)[3] is a systems management software product developed by Microsoft for managing large groups of computers running Windows NT, Windows Embedded, macOS (OS X), Linux or UNIX, as well as Windows Phone, Symbian, iOS and Android mobile operating systems.[4] Configuration Manager provides remote control, patch management, software distribution, operating system deployment, network access protection and hardware and software inventory.
